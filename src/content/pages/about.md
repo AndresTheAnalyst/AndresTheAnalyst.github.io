@@ -4,40 +4,42 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/po.jpg'
+    alt: A person sitting 
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/po.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Andres Estrada – Data Analyst based in France
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I’m Andres Estrada, a [Colombian](https://en.wikipedia.org/wiki/Colombia)-born Data Analyst currently living near the beautiful [French Alps](https://en.wikipedia.org/wiki/French_Alps). I’m a proactive individual with a strong ability to learn and an ongoing drive to develop new skills. My passion lies in transforming data into meaningful insights that guide strategic and informed decision-making.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in data collection, interpretation, and visualization, using data-driven methods to uncover patterns, optimize performance, and support business growth. My toolkit includes tools and technologies such as **Python**, **SQL**, **Pandas**, **Matplotlib**, **Seaborn**, and **Tableau**, which I use to turn complex datasets into clear, actionable results.
 
-## Innovation and Problem-Solving
+Before transitioning into Data Analytics, I spent seven years as a poultry producer, managing daily operations, optimizing production processes, and analyzing performance metrics. This experience gave me a deep understanding of operational data, efficiency, and the power of digital tools in improving productivity.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## Analytical Thinking and Problem-Solving
 
-## Global Perspective, Local Impact
+I thrive on solving complex challenges by combining analytical thinking with practical experience. Whether it’s exploring data trends, improving processes, or building dashboards, I approach every project with curiosity, precision, and a commitment to creating real value.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Global Perspective, Local Insight
 
-## Continuous Learning
+Living in France has broadened my perspective on how data shapes industries across different regions. My Colombian roots have taught me adaptability and resilience, while my international experience helps me approach analysis with both cultural sensitivity and global awareness.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+## Continuous Growth
+
+The ever-evolving nature of Data Analytics inspires me to keep learning. I’m constantly exploring new tools, techniques, and technologies that enhance data storytelling and decision-making capabilities. My goal is to stay ahead of the curve and continue growing as a professional in the data field.
 
 ## Collaboration and Communication
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+I believe that data becomes truly powerful when shared effectively. I enjoy collaborating with teams, communicating findings clearly, and turning insights into strategies that drive measurable impact.
 
 ## Get in Touch
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+Are you looking to uncover insights hidden in your data or optimize performance through analytics?
+I’d love to connect and collaborate on projects that make a difference.
 
-_Let's build something amazing together!_
+
+_Let’s turn data into decisions — and ideas into results!_

@@ -40,8 +40,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'AndresTheAnalyst',
+    subtitle: 'I’m Andres. I’m a Zootechnician turned Data Analyst, curious about how data can make life, work, and the world a little smarter and more sustainable.',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -61,8 +61,8 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Github',
+            href: 'https://github.com/AndresTheAnalyst'
         }
     ],
     footerNavLinks: [
@@ -78,30 +78,20 @@ const siteConfig: SiteConfig = {
             text: 'Terms',
             href: '/terms'
         },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+
     ],
     socialLinks: [
+
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/andres-felipe-estrada/'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hi friends! Welcome to my online space where I share what I’m learning and creating!',
+        text: "I’m **Andres**, a Data Analyst and Zootechnician with a specialization in Poultry Science and Nutrition. I’ve spent over 9 years working in the field, and now I apply the knowledge I’ve gained to analyze data for companies in the agricultural and livestock sectors. My approach combines curiosity, practical experience, and a focus on actionable insights to help businesses make smarter, data-driven decisions. I have a deep appreciation for quality analysis, meaningful patterns, and using data to solve real-world problems. Feel free to check out some of my projects in <a href='https://github.com/AndresTheAnalyst?tab=repositories'>GitHub</a>.",
         image: {
-            src: '/hero.jpeg',
+            src: '/port.jpg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
@@ -112,7 +102,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to Andres Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },

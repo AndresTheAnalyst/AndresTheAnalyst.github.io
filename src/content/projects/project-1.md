@@ -1,7 +1,7 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Showz Customer LTV & ROI Analysis'
+description: A data analysis project focused on evaluating customer behavior and marketing performance by calculating LTV, CAC, and ROI to optimize acquisition strategies and profitability.
+publishDate: 'Oct 12 2025'
 seo:
   image:
     src: '/project-1.jpg'
@@ -10,57 +10,69 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Project Overview**
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Showz Customer LTV & ROI Analysis is a data-driven project focused on understanding customer behavior and optimizing marketing investments. The analysis explores how much value customers bring to the company (LTV), how effectively marketing investments generate returns (ROI), and where the balance between cost and value is achieved.
 
-## Objectives
+**Objectives**
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+1. Analyze customer activity data, including visits, purchases, and marketing campaign performance.
 
-## Features
+2. Calculate the Customer Lifetime Value (LTV) and Customer Acquisition Cost (CAC) to evaluate profitability.
 
-1. **EcoScore and Challenges:**
+3. Determine the Return on Investment (ROI) for marketing efforts and identify optimization opportunities.
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+4. Detect the break-even point where customer-generated revenue surpasses acquisition costs.
 
-2. **Personalized Eco-Goals:**
+**Key Analyses and Features**
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+1. Exploratory Data Analysis (EDA):
 
-3. **Green Rewards Marketplace:**
+- Comprehensive analysis of user visits, orders, and marketing campaigns to uncover behavioral trends and correlations.
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+2. Cohort Analysis:
 
-4. **Community Hub:**
+- Examination of customer retention and behavior over time to identify long-term engagement patterns.
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+3. LTV & CAC Calculation:
 
-5. **EcoEducator AI Assistant:**
+- Quantitative assessment of how much each customer contributes in revenue versus how much it costs to acquire them.
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+4. ROI & Break-Even Insights:
 
-## Technology Stack
+- Evaluation of marketing performance and identification of the point where investments start generating net positive returns.
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+**Repository Structure**
 
-## Outcome
+data/ – Contains both raw (raw/) and processed (processed/) datasets.
 
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
+notebooks/ – Jupyter notebooks documenting each step of the analysis process.
 
-## Client Testimonial
+src/ – Python scripts with reusable functions for data cleaning and analysis.
 
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+reports/ – Visualizations and reports generated throughout the project.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+requirements.txt – List of dependencies required to run the analysis.
+
+**Technology Stack**
+
+- Python Libraries:
+pandas, numpy, matplotlib, seaborn, plotly (optional), jupyter
+
+**Key Metrics**
+
+- CAC (Customer Acquisition Cost)
+
+- LTV (Customer Lifetime Value)
+
+- ROI (Return on Investment)
+
+- Break-even Point
+
+**Outcome**
+
+The analysis provided actionable insights into Showz’s marketing efficiency and customer value generation. By comparing LTV and CAC, the project identified optimal spending thresholds and highlighted opportunities to increase profitability through improved marketing strategies.
+
+**Author**
+
+Project developed by **Andres Estrada**, a Data Analyst and Zootechnician specialized in Poultry Science and Nutrition, during the Data Analysis Bootcamp at TripleTen.
